@@ -28,7 +28,6 @@ body{
 }
 
 .card{
-    display: inline-block;
     display: flex;
 }
 
@@ -68,4 +67,5 @@ body{
     font-size: 25px;
     font-weight: 800;
     background-color: rgb(166 114 172);
+    cursor: pointer;
 }
